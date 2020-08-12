@@ -1,4 +1,4 @@
-# Local Proof of Concept Solution: preprocesses files into geopandas and geojsons, downloads Sentinel-2 images for such processed areas of interest (storing locally with local csv database), generates NDVI and NDRE indicies, clips and saves cut area of interest. 
+## Local Proof of Concept Solution: preprocesses files into geopandas and geojsons, downloads Sentinel-2 images for such processed areas of interest (storing locally with local csv database), generates NDVI and NDRE indicies, clips and saves cut area of interest. 
 
 Mask_Pipeline: Solution Demonstration.
 Local_sol_poc: Diagram of POC Pipeline. 
